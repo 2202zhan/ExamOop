@@ -1,0 +1,27 @@
+class Course:
+
+
+    def__init__(self, title, credits, subject)
+
+          self.=subject
+          self.__title={}
+          self.__credits={}
+
+    def add_grade(self, title, credits, title):
+        self.subject=subject
+	self.__grades[title] = grade
+	self.__grades[credits] = grade
+
+  
+  
+    def get_grade(self, subject):
+        return self.grades.get(subject, "Оценка")
+
+	return f"{subject} оценки за курс"
+	
+sub=subject
+print(sub.get_info())
+
+
+    #нуска 4 Жанибек
+  
