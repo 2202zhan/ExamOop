@@ -23,5 +23,5 @@ sub=subject
 print(sub.get_info())
 
 
-    #нуска 4 Жанибек
+    #нуска 4 Жанибекк
   
